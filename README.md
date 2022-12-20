@@ -1,6 +1,5 @@
 # Hi, I'm Adrit 👋
-![intro gif - Made with Clipchamp](https://user-images.githubusercontent.com/73035728/208732065-2e401140-6efc-47fd-9069-109584944eea.gif)
-
+![Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/73035728/208740689-0f445a40-31fe-4ce9-9277-1c696ee4935a.gif)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
