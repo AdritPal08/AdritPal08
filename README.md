@@ -5,6 +5,11 @@
 
  #### Skills: Python, SQL, Machine Learning,Power BI, Tableau, Google sheet, MS Excel, Google Data Studio
  
+ ***How to reach me? Connect me on:*** adritpal4@gmail.com
+ 
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ***FOllow me on : 
+ 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adritpal/)
 
 [![kaggle](https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adritpal08)
