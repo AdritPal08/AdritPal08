@@ -9,7 +9,7 @@
 
 [![kaggle](https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adritpal08)
 
-[![Gmail](https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=Gmail&logoColor=white)](adritpal4@gmail.com)
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=Gmail&logoColor=white)](adritpal4@gmail.com) -->
 <!---
 AdritPal08/AdritPal08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
