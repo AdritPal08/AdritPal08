@@ -1,4 +1,5 @@
 <h1> Hi, I'm Adrit  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+
 ![Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/73035728/208740689-0f445a40-31fe-4ce9-9277-1c696ee4935a.gif)
 
  Currently, I am a data analyst in the IT sector. I really enjoy learning  Python, SQL, Machine Learning, Tableau, and Power BI. I have an enthusiasm for AI deeply. I also enjoy learning new Tools and Programming languages. I love to learn new things every day and would love to implement them in my day-to-day activities.
