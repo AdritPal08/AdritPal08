@@ -8,23 +8,11 @@
 <h3 align="left">🛠 Language and tools</h3> 
 
 ###
-Python, SQL, Machine Learning,Power BI, Tableau, Google sheet, MS Excel, Google Data Studio
+Python, SQL, Machine Learning, Generative AI, LLM, Power BI, Tableau, Google sheet, MS Excel, Google Data Studio
 
  ###
  ***How to reach me? Connect me on:*** adritpal4@gmail.com
  
-###
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdritPal08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdritPal08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ***Follow me on:*** 
  
